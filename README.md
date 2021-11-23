@@ -8,10 +8,16 @@ The player has to reach the finish line within 7 green lights in order to win th
 
 ## Graphics Credits
 3D Giant Doll Model: [2Konseil on Sketchfab](https://sketchfab.com/3d-models/squid-game-giant-doll-6f9049e47c4e4e7cb3e6dcf9535d46fa)
+
 3D Player Model: [Character Amy from Mixamo](https://www.mixamo.com/)
+
 Walls Texture: [588ku on Pngtree](https://pngtree.com/freebackground/color-cartoon-flat-six-children-s-day-banner-background_1075779.html)
+
 Floor Texture: [Wesley Tingey on Unsplash](https://unsplash.com/photos/ZdOW9Qd8mQo)
+
 ## Sound Credits
 Doll Song and Turning Sound are adapted from Squid Game, directed by Hwang Dong-hyuk.
+
 Walking Sound Effects: [Sneaker Shoe On Concrete Floor Fast Pace 1 by fesliyan Studios](https://www.fesliyanstudios.com/royalty-free-sound-effects-download/footsteps-31)
+
 Gun Shot Sound Effect: [12 Gauge Pump Action Shotgun Close Gunshot B by fesliyan Studios](https://www.fesliyanstudios.com/royalty-free-sound-effects-download/gun-shooting-300)
